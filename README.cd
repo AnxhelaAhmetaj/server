@@ -1,0 +1,4 @@
+# Here we are creating a web server
+- if client requests / then then server returns the content of index.html
+- if client requests /about then the server returns the content of about.html
+- otherwise the server returns the text "Not found!"
